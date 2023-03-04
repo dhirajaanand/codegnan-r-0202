@@ -1,0 +1,271 @@
+*{
+   text-decoration: none;
+	margin:0%;
+	padding: 0%;
+	font-family: 'Karla', sans-serif;
+   /* border: solid 1px black; */
+}
+.navv{
+   box-shadow: 0 2px 6px rgb(210, 208, 208);
+}
+.navtext1{
+   margin-left: 2%;
+   width: 100%;
+}
+.navimg{
+   margin-left: 6%;
+}
+.liinks{
+   margin-left: 16%;
+}
+.bttns{
+   width: 34%;
+   margin-left: 2%;
+}
+.bttn1{
+   background-color: #334096;
+   border-radius: 6px;
+   margin-right: 2%;
+   padding: 0 2%;
+}
+.bttn2{
+   border: solid 1px #334096;
+   border-radius: 6px;
+   padding: 0 5%;
+}
+#dropdwn{
+   background-color: #334096;
+   width: 95%;
+   border-radius: 7px;
+}
+#searcch{
+   width: 50%;
+   border-radius: 7px 0 0 7px;
+   border: #334096 solid 1px;
+}
+#submitt{
+   background-color: #334096;
+   border-radius: 0 7px 7px 0;
+}
+#contactt{
+   border: #334096 solid 2px;
+   font-weight: bold;
+   border-radius: 5px;
+}
+#contactt a{
+   color: black;
+   text-decoration: none;
+}
+#carinner{
+   height: 500px;
+   max-height: 500px;
+}
+#caritem{
+   height: 500px;
+   max-height: 500px;
+   position: relative;
+}
+#carcaption{
+   margin: 0;
+   padding: 0;
+   position: absolute;
+   top: 28%;
+   left: 3%;
+   width: 50%;
+   color: white;
+   text-align: left;
+   margin: auto 7%;
+   font-size: 1.25rem;
+}
+#shadoww{
+   width: 100%;
+   height: 500px;
+   max-height: 500px;
+   background-color: #02020280;
+   position: absolute;
+   top: 0px;
+}
+.sec2>h2{
+   font-weight: bold;
+   font-size: 2.6rem;
+}
+#s2c{
+   min-width: 80vw;
+   margin-left: 8vw;
+}
+.kard{
+   box-shadow:0 0 4px 1px rgb(191, 190, 190);
+   height: 380px;
+   border-radius: 8px; 
+}
+.cardtext{
+   height: 200px;
+   padding: 5%;
+}
+.kard h2{
+   height: 190px;
+   background-image: linear-gradient(#7a8aed, #344197);
+   border-radius: 8px 8px 0 0;
+   padding: 5%;
+   color: white;
+   padding-top: 25%;
+   font-weight: bold;
+   font-size: 1.6rem;
+}
+.staar{
+	background: #fd6d02;
+	padding: 4%;
+	color: white;
+	font-weight: bold;
+	margin-right: 5%;  
+}
+.cardtext h6{
+   font-weight: bold;
+   padding-bottom: 16%;
+}
+.count{
+   color: grey;
+}
+.hrss{
+   margin-left: 25%;
+}
+/* section3 */
+.s3bttn{
+   background-color: #334096;
+   font-size: 1.2rem;
+}
+.s3h5{
+   font-size: 2rem;
+}
+.s3plus{
+   border: #334096 solid 1px;
+   border-radius: 8px;
+   padding: 2% 0;
+}
+.s3p{
+   line-height: 1.7;
+   font-size: 1.15rem;
+}
+.plus{
+   color: #334096;
+   font-size: 2rem;
+   margin-bottom: 0;
+}
+.sec4{
+   padding: 0 18% ;
+   width: 100%;
+}
+.sec4 h5{
+   font-weight: bold;
+   font-size: 1.8rem;
+}
+.sec4 img{
+   width: 100%;
+}
+.sec5{
+   margin-top: 8%;
+}
+.s5cols img{
+   width: 50px;
+   height: 50px;
+   margin: auto 0;
+   margin-right: 5%;
+}
+.positive {
+   line-height: 1;
+   margin-top: 2%;
+   font-size: 1.1rem;
+}
+.s6rctop{
+   height: 100px;
+}
+.s6face{
+   width: 70px;
+   height: 70px;
+}
+.s6coltext{
+   width: 70%;
+}
+.s6text{
+   width: 100%;
+   height: 100px;
+   overflow-y: auto;
+}
+.s6google{
+   width: 40px;
+   height: 40px;
+}
+.s6card{
+   box-shadow: 0 0 4px rgb(184, 184, 184);
+   margin: 2%;
+   padding: 2%;
+   border-radius: 10px;
+
+}
+.sec6 h2{
+   text-align: center;
+   font-weight: bold;
+   margin: 8% 0 2% 0;
+   font-size: 2.25rem;
+}
+.ytube{
+   border-radius: 10px;
+   box-shadow: 0 0 4px rgb(184, 184, 184);
+}
+.fsec{
+   background-color: rgb(206, 201, 201);
+   color: black;
+}
+
+.fo2 a , .fo3 a{
+   text-decoration: none;
+   color: black;
+   display: block;
+}
+.fo2 a:hover , .fo3 a:hover{
+   color: black;
+}
+.fo1 h5, .fo2 h5 , .fo3 h5{
+   font-weight: bold;
+   margin-bottom: 15%;
+   margin-top: 20%;
+}
+.fo4 h5{
+   font-weight: bold;
+   margin: 12% 0 10% 3%;
+}
+.fo4 img{
+   margin: 2%;
+}
+.foot1 a{
+   color: black;
+   text-decoration: none;
+   line-height: 2;
+}
+.foot1 a:hover{
+   color: black;
+}
+.foot2{
+   font-size: 0.8rem;
+}
+.stickyfoot{
+   background-color: #334096;
+   padding: 0.6%;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+.stickyfoot a{
+   text-decoration: none;
+   color: white;
+   font-size: 1.25rem;
+   margin: 0 18%;
+}
+.stickyfoot a:hover{
+   color: white;
+   text-decoration: none;
+}
+.chat{
+   background-color: cyan;
+   padding: 1%;
+}
